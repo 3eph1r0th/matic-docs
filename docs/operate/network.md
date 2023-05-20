@@ -113,6 +113,7 @@ Public RPCs may have traffic or rate-limits depending on usage.
 You can sign up for a dedicated free RPC URL at the following:
 
 * [Alchemy](https://www.alchemy.com/)
+* [Allnodes](https://polygon.publicnode.com)
 * [Ankr](https://www.ankr.com/)
 * [Blast (Bware Labs)](https://blastapi.io/)
 * [BlockPI](https://blockpi.io/)
